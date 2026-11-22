@@ -34,11 +34,17 @@ hacked, and Indonesia's 2026 forest fires.
 
 The ledger adds the rest of the day, from the Bayer Roundup
 settlement in Missouri and the Anthropic IPO to the Basra power
-plant fire, the Hormuz tanker attacks, and the Suneung cheating
-case in South Korea. Every figure in the picture comes from reports
-published on 21 November 2026: the Horizon daily briefing, One Turn
-News, AP, Nature, and the USGS. Closing prices in the markets strip
-are the closes reported that day.
+plant fire, the Hormuz tanker attacks, the Air Niugini jet that made
+an emergency landing at Davao, the displacement of around 700,000
+people around Moyale in Ethiopia, the IRGC claim of a downed US
+MQ-9 drone over the Strait of Hormuz, and the coalition's
+announcement that it destroyed six Houthi workshops in Sana'a.
+Every figure in the picture comes from reports published on 21
+November 2026: the Horizon daily briefing, One Turn News, AP,
+Nature, the USGS, the Civil Aviation Authority of the Philippines,
+Islamic Relief, and ANI. The drone claim is worded as a claim
+because the United States has not confirmed it. Closing prices in
+the markets strip are the closes reported that day.
 
 ## How to run
 
@@ -48,8 +54,9 @@ python3 main.py
 
 The script copies `entry.png`, the finished 1024 by 1024 picture,
 into `$MAKEFUN_OUTPUT_DIR` (or `/output` when the variable is not
-set). It uses only the Python standard library, touches no network,
-and refuses to run if the picture is over the 1 MiB limit.
+set). It runs on Python 3.13, uses only the standard library,
+touches no network, and refuses to run if the picture is over the
+1 MiB limit.
 
 ## Determinism
 

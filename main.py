@@ -1,10 +1,10 @@
 """Publish the finished picture for 21 November 2026.
 
 The artwork lives beside this script as entry.png: a clockwork globe
-holding one day of world news, 35 dated stories from 7 regions, 13
-of them drawn. This script only moves those bytes into the grading
-directory. It never decodes the picture, so the output is the same
-on every run.
+holding one day of world news, 35 dated stories from 7 regions, 8 of
+them drawn as cards. This script only moves those bytes into the
+grading directory. It never decodes the picture, so the output is the
+same on every run.
 """
 
 import hashlib
@@ -19,7 +19,7 @@ def picture_path():
     here = Path(__file__).resolve().parent
     found = here / "entry.png"
     if not found.is_file():
-        raise SystemExit("entry.png is missing next to main.py")
+        raise SystemExit(f"entry.png is missing in {here}")
     return found
 
 
