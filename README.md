@@ -9,11 +9,12 @@ Built for the [make.fun bounty](https://make.fun/bounty/news-image-20261121).
 One image that sums up Saturday 21 November 2026. The centre is a
 globe drawn as a clock, its continents folded like pages of
 newsprint, with seven region dots riding an orbit ring around it.
-Beside the globe are the five stories that led the day. Below it,
-eight more stories are drawn as cards. Underneath, a dated ledger
-lists all 35 stories reported that day, numbered 01 to 35, each
-carrying the tag of the outlet that reported it, with a markets
-strip at the foot. The globe is the whole composition: one
+Beside the globe are the five stories that led the day, each told
+in a single line. Below it, eight more stories are drawn as cards,
+each a picture with a label. Underneath, a dated ledger lists all
+35 stories reported that day, numbered 01 to 35, each cut to one
+fact and carrying the tag of the outlet that reported it, with a
+markets strip at the foot. The globe is the whole composition: one
 planet, one day, one clock. Nothing else on the page is decoration.
 The stars are the only marks without a story behind them, and there
 are four of them.

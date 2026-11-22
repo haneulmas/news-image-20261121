@@ -4,7 +4,10 @@ The artwork lives beside this script as entry.png: a clockwork globe
 holding one day of world news, 35 dated stories from 7 regions, 8 of
 them drawn as cards. Each ledger story carries the tag of the outlet
 that reported it, and the subtitle says the stories are sourced and
-date-checked. This script only moves those bytes into the
+date-checked. The five leading stories are each one line, and the
+eight drawn cards are picture-plus-label insets, so the top of the
+picture reads as one clean composition even at 300 pixels across.
+This script only moves those bytes into the
 grading directory. It never decodes the picture, so the output is the
 same on every run.
 """
