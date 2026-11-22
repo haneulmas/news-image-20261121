@@ -11,8 +11,9 @@ globe drawn as a clock, its continents folded like pages of
 newsprint, with seven region dots riding an orbit ring around it.
 Beside the globe are the five stories that led the day. Below it,
 eight more stories are drawn as cards. Underneath, a dated ledger
-lists all 35 stories reported that day, numbered 01 to 35, with a
-markets strip at the foot. The globe is the whole composition: one
+lists all 35 stories reported that day, numbered 01 to 35, each
+carrying the tag of the outlet that reported it, with a markets
+strip at the foot. The globe is the whole composition: one
 planet, one day, one clock. Nothing else on the page is decoration.
 The stars are the only marks without a story behind them, and there
 are four of them.
@@ -42,9 +43,12 @@ announcement that it destroyed six Houthi workshops in Sana'a.
 Every figure in the picture comes from reports published on 21
 November 2026: the Horizon daily briefing, One Turn News, AP,
 Nature, the USGS, the Civil Aviation Authority of the Philippines,
-Islamic Relief, and ANI. The drone claim is worded as a claim
-because the United States has not confirmed it. Closing prices in
-the markets strip are the closes reported that day.
+Islamic Relief, and ANI. Every ledger story carries the tag of the
+outlet that reported it (HZN Horizon, AP, USGS, NAT Nature, CAAP,
+IR Islamic Relief, ANI, SA Saudi coalition), so the date of each
+item can be checked against its source. The drone claim is worded
+as a claim because the United States has not confirmed it. Closing
+prices in the markets strip are the closes reported that day.
 
 ## How to run
 
